@@ -53,11 +53,7 @@ Prefer a UI? Run `/plugin` to open the interactive browser, pick a plugin, and i
 
 | Plugin | Description | Install |
 | ------ | ----------- | ------- |
-| _None published yet_ | The marketplace is live and ready — plugins land here as they ship. | — |
-
-<!-- When a plugin is added, its row looks like:
-| `my-plugin` | What it does, in one line. | `/plugin install my-plugin@claude-code-marketplace` |
--->
+| [`text-density-analyzer`](plugins/text-density-analyzer) | Detect repeated information and measure information density in text. Score or fix AI-generated bloat, semantic repetition, and filler content. | `/plugin install text-density-analyzer@claude-code-marketplace` |
 
 ## Add your own plugin
 
