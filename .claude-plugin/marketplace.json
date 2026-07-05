@@ -1,0 +1,8 @@
+{
+  "name": "claude-code-marketplace",
+  "owner": {
+    "name": "Max Levitskiy",
+    "email": "max.dstu@gmail.com"
+  },
+  "plugins": []
+}
